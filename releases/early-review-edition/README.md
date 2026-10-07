@@ -10,16 +10,16 @@ Evidence, Dependency Graphs, Bounded Inference, and HLASM Comprehension
 
 | File | Build date | Pages | Status |
 | --- | --- | ---: | --- |
-| [`Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.1.pdf`](Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.1.pdf) | 2026-10-07 | 199 | **Current — use this for review** |
+| [`Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.2.pdf`](Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.2.pdf) | 2026-10-07 | 200 | **Current — use this for review** |
 
-v2.1 fixes publication layout: **cover is page 1**, edition introduction on page 2,
-clickable Contents from page 3. Creator metadata is `PDF production`. Mainframe
-scope correction from v2 is unchanged.
+v2.2 adds a designed cinematic cover (page 1) and consistent front-matter styling.
+Mainframe scope correction (v2) and cover-first layout (v2.1) are unchanged in content.
 
 ## Superseded
 
 | File | Pages | Status |
 | --- | ---: | --- |
+| `Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.1.pdf` | 199 | Superseded (plain cover) |
 | `Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.pdf` | 199 | Superseded (TOC before cover) |
 | `Enterprise-Mainframe-Transformation-Early-Review-Edition.pdf` | 198 | Superseded (pre–scope correction) |
 
