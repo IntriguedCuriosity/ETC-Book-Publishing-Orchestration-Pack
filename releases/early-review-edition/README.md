@@ -5,13 +5,23 @@ Evidence, Dependency Graphs, Bounded Inference, and HLASM Comprehension
 
 - **Edition:** EARLY REVIEW EDITION — WORK IN PROGRESS
 - **Author:** Arshadul Shaikh
-- **Build date:** 2026-10-06
-- **Pages:** 198
 
-This PDF was produced mechanically from the sanitized public candidate
-(Chapters 1–12 and Special Review Chapters 21–24). It is for technical learning
-and practitioner feedback. It is not a final edition, official guide, or vendor
-publication.
+## Current review PDF (mainframe scope corrected)
 
-The accompanying `PDF-*.md` files record metadata, link, leak, and visual QA
-checks for this build.
+| File | Build date | Pages | Status |
+| --- | --- | ---: | --- |
+| [`Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.pdf`](Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.pdf) | 2026-10-07 | 199 | **Current private review candidate** |
+
+This v2 build removes the VMware / canonical-estate planning path that had
+been mixed into the mainframe edition. Use this file for further review.
+
+## Superseded
+
+| File | Build date | Pages | Status |
+| --- | --- | ---: | --- |
+| `Enterprise-Mainframe-Transformation-Early-Review-Edition.pdf` | 2026-10-06 | 198 | **Superseded** — do not use |
+
+The v2 PDF was produced mechanically from the verified mainframe-only public
+candidate (Chapters 1–12 and Special Review Chapters 21–24). It is for
+technical learning and practitioner feedback. It is not a final edition,
+official guide, or vendor publication.
