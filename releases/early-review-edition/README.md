@@ -6,22 +6,22 @@ Evidence, Dependency Graphs, Bounded Inference, and HLASM Comprehension
 - **Edition:** EARLY REVIEW EDITION — WORK IN PROGRESS
 - **Author:** Arshadul Shaikh
 
-## Current review PDF (mainframe scope corrected)
+## Current review PDF
 
 | File | Build date | Pages | Status |
 | --- | --- | ---: | --- |
-| [`Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.pdf`](Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.pdf) | 2026-10-07 | 199 | **Current private review candidate** |
+| [`Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.1.pdf`](Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.1.pdf) | 2026-10-07 | 199 | **Current — use this for review** |
 
-This v2 build removes the VMware / canonical-estate planning path that had
-been mixed into the mainframe edition. Use this file for further review.
+v2.1 fixes publication layout: **cover is page 1**, edition introduction on page 2,
+clickable Contents from page 3. Creator metadata is `PDF production`. Mainframe
+scope correction from v2 is unchanged.
 
 ## Superseded
 
-| File | Build date | Pages | Status |
-| --- | --- | ---: | --- |
-| `Enterprise-Mainframe-Transformation-Early-Review-Edition.pdf` | 2026-10-06 | 198 | **Superseded** — do not use |
+| File | Pages | Status |
+| --- | ---: | --- |
+| `Enterprise-Mainframe-Transformation-Early-Review-Edition-v2.pdf` | 199 | Superseded (TOC before cover) |
+| `Enterprise-Mainframe-Transformation-Early-Review-Edition.pdf` | 198 | Superseded (pre–scope correction) |
 
-The v2 PDF was produced mechanically from the verified mainframe-only public
-candidate (Chapters 1–12 and Special Review Chapters 21–24). It is for
-technical learning and practitioner feedback. It is not a final edition,
+For technical learning and practitioner feedback only. Not a final edition,
 official guide, or vendor publication.
